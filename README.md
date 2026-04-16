@@ -1,5 +1,6 @@
 # Retail-Sales-PowerBI-Dashboard
-An end-to-end Power BI project showcasing data analysis, visualization, and security implementation using real-world retail data.  
+An end-to-end Power BI project focused on analyzing retail sales performance, identifying high-return products, and enabling secure, role-based access using Dynamic Row Level Security (RLS).
+This dashboard helps stakeholders make data-driven decisions through interactive visuals, KPI tracking, and advanced tooltip UX.
 
 ## Project Overview
 This project analyzes retail sales data to uncover insights on sales performance, returns, and regional trends.
