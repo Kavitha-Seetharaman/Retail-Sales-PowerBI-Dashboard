@@ -20,6 +20,16 @@ The dashboard provides a clear view of
 - Designed interactive dashboard visuals
 - Implemented tooltip for better UX
 - Applied Dynamic Row Level Security (RLS)
+- 
+## Dataset
+This project uses the AdventureWorks dataset, a Microsoft sample dataset that simulates a real-world retail business.
+It includes:
+- Sales transactions across multiple years
+- Product hierarchy (Category, Subcategory, Product)
+- Customer and regional data
+- Returns data for analyzing product performance
+  
+The dataset was used to build a star schema data model and perform sales and return analysis.
 
 ## Business Problem
 - Retail businesses often struggle to:
