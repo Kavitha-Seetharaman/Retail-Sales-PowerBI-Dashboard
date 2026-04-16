@@ -67,6 +67,7 @@ A mapping table is used to restrict users to their respective regions, ensuring:
 Also handled scenario where specific users can access multiple regions.
 
 ## Dashboard Overview
+*Displays overall sales performance with KPIs, trends, and filters.*
 <p align="center">
   <img src="Overview.png" width="800"/>
 </p>
@@ -93,14 +94,16 @@ Also handled scenario where specific users can access multiple regions.
 - GitHub (for project documentation)
 
 ## Learnings
-- Implemented dynamic Row Level Security using DAX
+- Implemented dynamic Row Level Security (RLS) using USERPRINCIPALNAME() and a user-region mapping table
 - Designed user-friendly tooltip for better UX
 - Built a structured data model for performance optimization
 - Translated business problems into actionable insights
 
 ## Business Impact
-
 - Helps identify products with high return rates
 - Enables region-wise performance comparison
 - Supports data-driven decision-making
 - Ensures secure and personalized data access using RLS
+
+## Conclusion
+This project demonstrates the ability to build end-to-end Power BI solutions, combining data modeling, DAX, visualization, and security to deliver business-ready insights.
