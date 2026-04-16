@@ -20,7 +20,7 @@ The dashboard provides a clear view of
 - Designed interactive dashboard visuals
 - Implemented tooltip for better UX
 - Applied Dynamic Row Level Security (RLS)
-- 
+  
 ## Dataset
 This project uses the AdventureWorks dataset, a Microsoft sample dataset that simulates a real-world retail business.
 It includes:
