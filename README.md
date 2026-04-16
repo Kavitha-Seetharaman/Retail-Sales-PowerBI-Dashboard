@@ -1,6 +1,7 @@
 # Retail-Sales-PowerBI-Dashboard
-An end-to-end Power BI project focused on analyzing retail sales performance, identifying high-return products, and enabling secure, role-based access using Dynamic Row Level Security (RLS).
-This dashboard helps stakeholders make data-driven decisions through interactive visuals, KPI tracking, and advanced tooltip UX.
+An end-to-end Power BI dashboard designed to analyze retail sales performance, uncover high-return products, and enable secure, user-based data access using Dynamic Row Level Security (RLS).
+
+The project focuses on transforming raw retail data into actionable insights through interactive visuals, KPI tracking, and enhanced tooltip-driven user experience.
 
 ## Project Overview
 This project analyzes retail sales data to uncover insights on sales performance, returns, and regional trends.
@@ -65,18 +66,25 @@ A mapping table is used to restrict users to their respective regions, ensuring:
 
 Also handled scenario where specific users can access multiple regions.
 
-## Dashboard Views
-### Overview Dashboard
-![Overview](Overview.png)
+## Dashboard Overview
+<p align="center">
+  <img src="Overview.png" width="800"/>
+</p>
 
 ### Deep Dive Analysis
-![Deep Dive](Deep-dive.png)
+<p align="center">
+  <img src="Deep-dive.png" width="800"/>
+</p>
 
-### Tooltip Experience (Advanced UX)
-![Tooltip](ToolTip.png)
+## Tooltip Experience (Advanced UX)
+<p align="center">
+  <img src="ToolTip.png" width="800"/>
+</p>
 
 ## Data Model
-![Data Model](Data-Modelling.png)
+<p align="center">
+  <img src="Data-Modelling.png" width="800"/>
+</p>
 
 ## Tools Used
 - Power BI
@@ -89,3 +97,10 @@ Also handled scenario where specific users can access multiple regions.
 - Designed user-friendly tooltip for better UX
 - Built a structured data model for performance optimization
 - Translated business problems into actionable insights
+
+## Business Impact
+
+- Helps identify products with high return rates
+- Enables region-wise performance comparison
+- Supports data-driven decision-making
+- Ensures secure and personalized data access using RLS
