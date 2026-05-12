@@ -92,11 +92,6 @@ Also handled scenario where specific users can access multiple regions.
   <img src="ToolTip.png" width="800"/>
 </p>
 
-## Data Model
-<p align="center">
-  <img src="Data-Modelling.png" width="800"/>
-</p>
-
 ## Tools Used
 - Power BI
 - DAX
